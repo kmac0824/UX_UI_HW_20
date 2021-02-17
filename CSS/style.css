@@ -1,0 +1,137 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #696e80;
+}
+
+h1 {
+    color: #FBFCFF;
+}
+
+header {
+    color: white;
+    margin: 20px;
+}
+
+.headerParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;  
+}
+
+.headerChild2 {
+    margin-right: 120px;
+}
+
+.navigation {
+    list-style-type: none;
+}
+
+.location {
+    font-style: normal;
+    font-weight: bolder;
+    text-decoration-line: underline;
+    color: #FBFCFF;
+}
+
+.GFS {
+    background-color: #85a3ff;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.gfsParent {
+    display: flex;
+    flex-direction: row;
+    padding: 40px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.research {
+    margin: 20px;
+}
+
+.researchParent {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.researchChild1 {
+    margin-left: 20px;
+    color: white;
+}
+
+.definitionParent {
+    display: flex;
+    flex-direction: row;
+    padding: 40px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.definitionChild1 {
+    color: white;
+}
+
+.ideation {
+    margin: 20px;
+}
+
+.ideationParent {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ideationChild1 {
+    margin-left: 20px;
+    color: white;
+}
+
+.prototypingParent {
+    display: flex;
+    flex-direction: row;
+    padding: 40px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.prototypingChild1 {
+    color: white;
+}
+
+.testingParent {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.testingChild1 {
+    margin-left: 20px;
+    color: white;
+}
+
+.conclusion {
+    background-color: #85a3ff;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.conclusionParent {
+    display: flex;
+    flex-direction: row;
+    padding: 40px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footerParent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
